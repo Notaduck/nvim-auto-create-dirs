@@ -10,5 +10,4 @@ Use [Lazy.nvim](https://github.com/folke/lazy.nvim) to install:
 ```lua
 {
   "your-github-username/auto-create-dirs.nvim",
-  config = true,
 }
