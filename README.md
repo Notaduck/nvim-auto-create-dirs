@@ -21,5 +21,4 @@ Use [Lazy.nvim](https://github.com/folke/lazy.nvim) to install:
 ```lua
 {
   "notaduck/auto-create-dirs.nvim",
-  config = true,
 }
